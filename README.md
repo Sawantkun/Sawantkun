@@ -16,10 +16,9 @@
 <a href="https://twitter.com/Sawantkun"><img style="padding:40px; width:30px;" src="https://camo.githubusercontent.com/b70fc5b0f42766d5810a6e7d0e06b34af182edb7bd5caaa241e82d7261cbcbaf/68747470733a2f2f7674612e636f6d2e61752f77702d636f6e74656e742f75706c6f6164732f323031372f30382f747769747465722d69636f6e2e676966"></a>
 
 ### Languages and Tools:
-<a href=""><img style="padding:20px; width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
-<a href=""><img style="padding:60px; width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
-<a href=""><img style="padding:100px; width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a href=""><img style="padding:140px; width:30px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>
-<a href=""><img style="padding:180px; width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
+<a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
+<a href=""><img style="left:30px; width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
+<a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>
+<a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
 
 
