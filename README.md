@@ -2,7 +2,8 @@
 
 
 ### Hi there! I Am Sawant 👋
-
+_____________________________
+### STUDENT || CODER || WEEB
 
 - 🔭 I’m currently working on Personal Portfolio
 - 🌱 I’m currently learning JavaScript
@@ -22,5 +23,6 @@
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
+<a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>
 
 
