@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Sawantkun&&show_icons=true&title_color=ffffff&icon_color=cyan&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Sawantkun&&show_icons=true&title_color=whiteicon_color=cyan&text_color=daf7dc&bg_color=151515">
 
 
 ### Hi there! I Am <a href="https://sawant-kumar-personal-portfolio.netlify.app/">Sawant Kumar</a> 👋
