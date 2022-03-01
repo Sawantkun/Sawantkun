@@ -8,7 +8,7 @@ _____________________________
 - 🔭 I’m currently working on <a href="https://sawant-kumar-personal-portfolio.netlify.app/">Personal Portfolio</a>
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Web Designing
-- 💬 Ask me about Html, CSS, C++, Python
+- 💬 Ask me about Html, CSS, JavaScript, Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Bikes
 _____________________________
