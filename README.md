@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Sawantkun&&show_icons=true&title_color=whiteicon_color=cyan&text_color=daf7dc&bg_color=151515">
 
 
-### Hi there! I Am <a href="https://sawant-kumar-personal-portfolio.netlify.app/">Sawant Kumar</a> 👋
+### Hi there! I Am <a href="bit.ly/Sawant-Kumar">Sawant Kumar</a> 👋
 _____________________________
 ### STUDENT 👨‍🎓 || CODER 💻 || WEEB 🛡️
 
