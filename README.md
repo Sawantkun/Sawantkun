@@ -1,11 +1,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Sawantkun&&show_icons=true&title_color=whiteicon_color=cyan&text_color=daf7dc&bg_color=151515">
 
 
-### Hi there! I Am <a href="bit.ly/Sawant-Kumar">Sawant Kumar</a> 👋
+### Hi there! I Am <a href="https://sawant-kumar.netlify.app/">Sawant Kumar</a> 👋
 _____________________________
 ### STUDENT 👨‍🎓 || CODER 💻 || WEEB 🛡️
 
-- 🔭 I’m currently working on <a href="bit.ly/Sawant-Kumar">Personal Portfolio</a>
+- 🔭 I’m currently working on <a href="https://sawant-kumar.netlify.app/">Personal Portfolio</a>
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Web Designing
 - 💬 Ask me about Html, CSS, JavaScript, Python
