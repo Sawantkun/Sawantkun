@@ -22,6 +22,6 @@ _____________________________
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
-<a href=""><img style=" width:30px;" src="https://imgs.search.brave.com/bnhKsRdWpV8-PdxjB-oJZtfHAxSYoNW5EbHuHjD7Lro/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcHJvZ3Jh/bW1pbmd3aXRobW9z/aC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDEvMjAw/MHB4LVJlYWN0LWlj/b24uc3ZnXy5wbmc_/Zml0PTIwMDAlMkMx/NDEzJnNzbD0x"></a>
+<a href=""><img style=" width:40px;" src="https://imgs.search.brave.com/bnhKsRdWpV8-PdxjB-oJZtfHAxSYoNW5EbHuHjD7Lro/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcHJvZ3Jh/bW1pbmd3aXRobW9z/aC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDEvMjAw/MHB4LVJlYWN0LWlj/b24uc3ZnXy5wbmc_/Zml0PTIwMDAlMkMx/NDEzJnNzbD0x"></a>
 
 
