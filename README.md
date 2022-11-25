@@ -18,10 +18,10 @@ _____________________________
 
 ### Languages and Tools 🛠️:
 <a href=""><img style=" width:30px;" src="https://img.search.brave.com/QTj864aK_RiCgNC4dN0gFvT9ZogbjvI4FHKfLWnNiKQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jbGlw/Z3JvdW5kLmNvbS9p/bWFnZXMvaHRtbDUt/bG9nby0yLnBuZw"></a>
-<a href=""><img style=" width:35px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
+<a href=""><img style=" width:38px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>
 <a href=""><img style=" width:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
-<a href=""><img style=" width:30px;" src="https://imgs.search.brave.com/Dgb0L7zjqvE113bpZoPihYq9noK557wzYXdntGPiUbo/rs:fit:1142:1027:1/g:ce/aHR0cHM6Ly9wbHVz/cG5nLmNvbS9pbWct/cG5nL3JlYWN0LWxv/Z28tcG5nLWltZy1y/ZWFjdC1sb2dvLXBu/Zy1yZWFjdC1qcy1s/b2dvLXBuZy10cmFu/c3BhcmVudC1wbmct/MTE0MngxMDI3LnBu/Zw"></a>
+<a href=""><img style=" width:30px;" src="https://imgs.search.brave.com/bnhKsRdWpV8-PdxjB-oJZtfHAxSYoNW5EbHuHjD7Lro/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcHJvZ3Jh/bW1pbmd3aXRobW9z/aC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDEvMjAw/MHB4LVJlYWN0LWlj/b24uc3ZnXy5wbmc_/Zml0PTIwMDAlMkMx/NDEzJnNzbD0x"></a>
 
 
