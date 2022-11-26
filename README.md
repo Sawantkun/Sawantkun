@@ -5,10 +5,10 @@
 _____________________________
 ### STUDENT 👨‍🎓 || CODER 💻 || WEEB 🛡️
 
-- 🔭 I’m currently working on <a href="https://sawant-kumar.netlify.app/">Personal Portfolio</a>
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on <a href="https://www.cureya.in/index.html">Cureya</a>
+- 🌱 I’m currently learning React and Firebase
 - 👯 I’m looking to collaborate on Web Designing
-- 💬 Ask me about Html, CSS, JavaScript, Python
+- 💬 Ask me about Html, CSS, Sass, Tailwind, JavaScript, React
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Bikes
 _____________________________
