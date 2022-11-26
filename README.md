@@ -5,7 +5,7 @@
 _____________________________
 ### STUDENT 👨‍🎓 || CODER 💻 || WEEB 🛡️
 
-- 🔭 I’m currently working on <a href="https://www.cureya.in/index.html">Cureya</a>
+- 🔭 I’m currently working with <a href="https://www.cureya.in/index.html">Cureya</a>
 - 🌱 I’m currently learning React and Firebase
 - 👯 I’m looking to collaborate on Web Designing
 - 💬 Ask me about Html, CSS, Sass, Tailwind, JavaScript, React
